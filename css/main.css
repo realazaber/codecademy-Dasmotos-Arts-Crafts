@@ -22,6 +22,10 @@ body {
     background-color: mediumspringgreen;
 }
 
+#frames .secondary-heading {
+    background-color: lightcoral;
+}
+
 .secondary-heading {
     font-size: 32px;
     font-weight: bold;
